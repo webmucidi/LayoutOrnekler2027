@@ -1,15 +1,10 @@
 body{
     background-color: black;
     height: 100vh;
-
-
 }
-
 div{
-
     margin: 10px;
 }
-
 div.kirmizi{
     background-color: red;
     width: 70%;
@@ -27,5 +22,4 @@ div.yesil{
     width: 34%;
     height: 300px;
     float: left;
-
 }
